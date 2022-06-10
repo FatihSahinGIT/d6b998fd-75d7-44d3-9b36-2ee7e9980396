@@ -23,18 +23,6 @@ Die API, welche zum Beschaffen der Event Daten bereitgestellt wurde lautet:
 
 ### https://tlv-events-app.herokuapp.com/events/uk/london
 
-
-
-
-
-
-
-```bash
-  git clone https://github.com/FatihSahinGIT/d6b998fd-75d7-44d3-9b36-2ee7e9980396.git
-  cd d6b998fd-75d7-44d3-9b36-2ee7e9980396
-  npm install
-  npm start
-```
     
 ## Installation
 
