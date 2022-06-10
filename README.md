@@ -52,6 +52,7 @@ Um die Anwendung starten zu können müssen folgende Schritte befolgt werden:
 
 ```bash
   cd d6b998fd-75d7-44d3-9b36-2ee7e9980396
+  cd tecleadrecruiting
 ```
 
 **Abhängigkeiten herunterladen**
