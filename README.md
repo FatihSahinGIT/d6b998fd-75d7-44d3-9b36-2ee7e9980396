@@ -1,4 +1,4 @@
-
+![Teclaed Logo](assets/tecleadImg.jpeg?raw=true "Teclead")
 # Teclead Ventures - Recruiting Task (Frontend)
 
 
