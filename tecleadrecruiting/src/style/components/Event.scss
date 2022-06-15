@@ -1,0 +1,14 @@
+/* === IMPORTS === */
+@use "../general/flex.scss";
+@use "../general/fonts.scss";
+
+
+.event-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+    background: none;
+}

@@ -1,0 +1,8 @@
+/* === FLEX TEMPLATE === */
+
+@mixin flex($dircetion, $wrap, $main-axis, $cross-axis) {
+  display: flex;
+  flex-flow: $dircetion, $wrap;
+  justify-content: $main-axis;
+  align-items: $cross-axis;
+}
