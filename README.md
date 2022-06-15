@@ -9,7 +9,7 @@
 - [@FatihSahinGIT](https://github.com/FatihSahinGIT)
 
 
-## Description
+## Beschreibung
 
 Das Grundprinzip des Projektes soll daraus bestehen, mithilfe der JavaScript Library **REACT** eine Anwendung zu erschaffen,
 in der der Endkonsument aus verschiedenen Events aussuchen kann und diese schlussendlich in den bereitgestellten 

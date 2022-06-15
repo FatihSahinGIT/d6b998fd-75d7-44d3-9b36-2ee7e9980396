@@ -1,0 +1,19 @@
+{
+  "name": "tecleadrecruiting",
+  "version": "1.0.0",
+  "description": "Die Anwendung beinhaltet die Bewerbungsaufgabe im Bereich Frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatihSahinGIT/d6b998fd-75d7-44d3-9b36-2ee7e9980396.git"
+  },
+  "author": "Fatih Sahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatihSahinGIT/d6b998fd-75d7-44d3-9b36-2ee7e9980396/issues"
+  },
+  "homepage": "https://github.com/FatihSahinGIT/d6b998fd-75d7-44d3-9b36-2ee7e9980396#readme"
+}
